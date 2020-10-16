@@ -1,0 +1,1 @@
+<li ><a  data-id=" {{ $color->idColor }} "> {{ $color->color}}</a> </li>  

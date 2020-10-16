@@ -1,0 +1,1 @@
+<li class="current-cat" value="{{ $cat->idCategory }}"  ><a >{{ $cat->name }}</a></li>   
